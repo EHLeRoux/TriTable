@@ -18,4 +18,4 @@ def triTable(x,y):
         
 if __name__=="__main__": 
     
-    triTable(10,1) #inputs are 10 and 1 for the question but can be changed depending on what size pyramid you want
+    triTable(10,1) #Inputs change the size of the pyramid
